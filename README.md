@@ -1,5 +1,5 @@
-# Nexilis
-A Reddit clone by Prozilla
+# vm8feed
+A Reddit clone by Pako
 
 This website is powered by the Reddit API and hosted by Netlify.
 
