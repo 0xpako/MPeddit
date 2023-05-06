@@ -1,0 +1,13 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 17" width="18" height="17">
+	<title>Unicorn-svg</title>
+	<defs>
+		<image  width="15" height="17" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAARCAMAAAA11AaTAAAAAXNSR0IB2cksfwAAAEVQTFRF/34A/34A/34A/34A/34A/34A/34A/34A/34A/34A/34A/34A/34A/34A/34A/34A/34A/34A/34A/34A/34A/34A/34AyiuP7wAAABd0Uk5TABBAsDDgcNCQ/9+/jyDvYPCgwICvX58oBm5RAAAAa0lEQVR4nF2P4RqAEAxFZ5GWhFTv/6gZU5/2h3PvuBuAgrHwL0x6ZGVmO/QsRLS6DTsbauV8xZl67fws8C02IQH4chxJS0fxs+U84f6nEvbCqWEU9xQ78/zX3fPqmGhebIuoUJWYvyU8oiQ9LVAE8UCM1+cAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+	</style>
+	<g id="layer1">
+		<g id="g859">
+			<use id="img1" href="#img1" x="2" y="0"/>
+		</g>
+	</g>
+</svg>
